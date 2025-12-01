@@ -17,3 +17,8 @@
 ### Kesulitan dalam bagaimana memahami cara kerja fungsi dalam membuat grafik
 ## 3
 ### Ai yang paling membantu dalam analysis data adalah ChatGPT, dan QWEEN, karena memberikan analysis data yang hampir lengkap dan mudah di pahami.
+
+
+##SS Output
+![Grafik](output/Screenshot 2025-12-02 060511.png)
+![Output](output/Screenshot 2025-12-02 060546.png)
